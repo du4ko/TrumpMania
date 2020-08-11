@@ -2,9 +2,6 @@ from .dl_json import dl_json_
 from pymongo import MongoClient
 
 
-import sys
-
-
 def main_db_operation():
 
     #get the json from the url
